@@ -35,6 +35,8 @@ namespace Lab2_RoomCalculator
 
                 Console.WriteLine("The perimeter of the room is " + perimeter + " ft");
 
+                Console.WriteLine("The volume of the room is " + volume + " ft^3");
+
                 Console.WriteLine("The room will require " + paint + " cans of paint");
 
                 Console.WriteLine("as well as " + tiles + " tiles of carpet");
